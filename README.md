@@ -54,8 +54,8 @@ Open your browser and navigate to http://localhost:3000 to access the applicatio
 Use the interface to manage users.
 
 ## API Endpoints
-GET /api/users - Retrieve all users
-GET /api/users/:id - Retrieve a specific user by ID
-POST /api/users/add - Create a new user
-POST /api/users/update/:id - Update an existing user
-POST /api/users/delete/:id - Delete a user by ID
+- GET /api/users - Retrieve all users
+- GET /api/users/:id - Retrieve a specific user by ID
+- POST /api/users/add - Create a new user
+- POST /api/users/update/:id - Update an existing user
+- POST /api/users/delete/:id - Delete a user by ID
