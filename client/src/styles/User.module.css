@@ -1,0 +1,13 @@
+.topContainer {
+    display: flex;
+}
+
+.lefSide {
+    flex-basis: 50%;
+}
+
+.rightSide {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
